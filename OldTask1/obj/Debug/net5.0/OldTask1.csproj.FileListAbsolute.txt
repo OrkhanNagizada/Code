@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\OldTask1\OldTask1\bin\Debug\net5.0\OldTask1.exe
+C:\Users\hp\Desktop\OldTask1\OldTask1\bin\Debug\net5.0\OldTask1.deps.json
+C:\Users\hp\Desktop\OldTask1\OldTask1\bin\Debug\net5.0\OldTask1.runtimeconfig.json
+C:\Users\hp\Desktop\OldTask1\OldTask1\bin\Debug\net5.0\OldTask1.runtimeconfig.dev.json
+C:\Users\hp\Desktop\OldTask1\OldTask1\bin\Debug\net5.0\OldTask1.dll
+C:\Users\hp\Desktop\OldTask1\OldTask1\bin\Debug\net5.0\OldTask1.pdb
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.AssemblyInfo.cs
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.dll
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\refint\OldTask1.dll
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.pdb
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.genruntimeconfig.cache
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\ref\OldTask1.dll
