@@ -203,6 +203,8 @@ namespace OldTask1
 
             #endregion
 
+            int a=5; int b=5;
+
 
 
         }

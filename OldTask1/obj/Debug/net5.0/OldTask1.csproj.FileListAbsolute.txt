@@ -13,3 +13,4 @@ C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\refint\OldTask1.dll
 C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.pdb
 C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.genruntimeconfig.cache
 C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\ref\OldTask1.dll
+C:\Users\hp\Desktop\OldTask1\OldTask1\obj\Debug\net5.0\OldTask1.sourcelink.json
